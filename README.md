@@ -2,6 +2,12 @@
 
 Invest Master is a comprehensive platform for buying and exploring cryptocurrency. It features a user-friendly interface, real-time market data, and seamless payment gateway integration.
 
+## ContriButors
+
+- [Saurav Ganguly](https://github.com/Saurabh8657)
+- [Arshlan Akhtar](https://github.com/aakhtar10)
+- [Azad Ansari](https://github.com/azadanshu)
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -114,6 +120,4 @@ The backend server is hosted on Render.
 ## Payment Gateway Integration
 
 Invest_Master integrates with [PaymentGatewayName](https://paymentgateway.com) for seamless and secure transactions in test mode. Follow the [payment gateway documentation](https://paymentgateway.com/docs) for testing payments.
-
-## Home Page
 
