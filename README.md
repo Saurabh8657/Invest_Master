@@ -30,7 +30,7 @@ Invest Master is a comprehensive platform for buying and exploring cryptocurrenc
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/sagarkadamsearch/data-horizon-1234.git`
+1. Clone the repository: `https://github.com/Saurabh8657/Invest_Master.git`
 2. Install frontend dependencies: `cd front_end && npm install`
 3. Install backend dependencies: `cd back_end && npm install`
 4. Start the frontend application: `cd front_end && npm start`
@@ -111,7 +111,7 @@ The backend server provides data for the frontend. It runs on [http://localhost:
 
 ### Frontend
 
-The frontend of CryptoCoinX is deployed on Versal. You can access the deployed application at [Versal Frontend Link](https://data-horizon-1234.vercel.app/).
+The frontend of Invest Master is deployed on Versal. You can access the deployed application at [Versal Frontend Link](https://invest-master.vercel.app/signin).
 
 ### Backend
 
